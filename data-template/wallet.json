@@ -1,0 +1,26 @@
+{
+  "237691234001@s.whatsapp.net": {
+    "coins": 50000,
+    "bank": 50000,
+    "lastDaily": 0,
+    "lastWork": 0,
+    "lastCrime": 0,
+    "lastCoffre": 0,
+    "invest": null,
+    "totalGained": 0,
+    "totalLost": 0,
+    "gamesPlayed": 0
+  },
+  "237691234002@s.whatsapp.net": {
+    "coins": 10000,
+    "bank": 0,
+    "lastDaily": 0,
+    "lastWork": 0,
+    "lastCrime": 0,
+    "lastCoffre": 0,
+    "invest": null,
+    "totalGained": 0,
+    "totalLost": 0,
+    "gamesPlayed": 0
+  }
+}
